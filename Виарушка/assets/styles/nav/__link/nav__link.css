@@ -1,0 +1,9 @@
+.nav__link {
+    font-family:'Roboto Slab', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 17px;
+    text-decoration: none;
+    color: #5222D0;
+}
