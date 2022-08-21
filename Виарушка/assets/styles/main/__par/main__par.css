@@ -6,3 +6,10 @@
     font-size: 20px;
     line-height: 32px;
 }
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+    .main__par {
+        width: 300px;
+    }
+}
+

@@ -5,3 +5,11 @@
     font-size: 28px;
     line-height: 36px;
 }
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+    .container__hd {
+        font-weight: 200;
+        font-size: 15px;
+        line-height: 15px;
+    }
+}

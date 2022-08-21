@@ -5,3 +5,11 @@
     padding-left: 4em;
     padding-right: 4em;
 }
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+    .header {
+        display: flex;
+        padding-left: 1em;
+        padding-right: 1em;
+}
+}

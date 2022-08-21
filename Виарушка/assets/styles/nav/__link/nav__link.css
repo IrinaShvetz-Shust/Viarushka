@@ -7,3 +7,13 @@
     text-decoration: none;
     color: #5222D0;
 }
+
+.nav__link__color-black {
+    color: black;
+}
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+    .nav__link {
+        font-size: 15px;
+    }
+}

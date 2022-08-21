@@ -4,3 +4,16 @@
     background-position: top right;
     background-size: 45em 43em;
 }
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+    .main {
+        background-size: 18em 15em;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .main {
+        background-size: 35em 29em;
+    }
+}
+

@@ -1,4 +1,5 @@
 .header__button {
+    width: 115px;
     background-color: #5222D0;
     color: #FFFFFF;
     font-family: 'Intro', sans-serif;
@@ -9,7 +10,6 @@
     letter-spacing: 0.5px;
     border: none;
     border-radius: 100px;
-    padding: 14px 33px 11px 16px;
     cursor: pointer;
 }
 

@@ -1,8 +1,6 @@
 @import url('./normalize/normalize.css');
 @import url('./header/header.css');
-@import url('./header/__logo/header__logo.css');
 @import url('./header/__button/header__button.css');
-@import url('./nav/__list/nav__list.css');
 @import url('./nav/__item/nav__item.css');
 @import url('./nav/__link/nav__link.css');
 @import url('./section/section.css');
